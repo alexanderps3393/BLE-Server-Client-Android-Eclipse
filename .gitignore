@@ -82,3 +82,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Eclipse
+# =========================
+
+/.settings
+.classpath
+.project
+proguard-project.txt
+project.properties
